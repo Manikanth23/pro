@@ -1,0 +1,15 @@
+img{
+  height:500px;
+  width:500px;
+  border:10px solid blue;
+}
+h1{
+  color:tomato;
+}
+h2{
+  color:black;
+}
+body{
+  background:grey;
+  text-align: center;
+}
